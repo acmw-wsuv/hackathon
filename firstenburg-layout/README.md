@@ -4,9 +4,7 @@
 
 According to the events office:
 
-> It is 66' wide x 79' long  
-> Allow 500ft for walkways doors  
-> 4800 square feet meeting room
+> It is 66' wide x 79' long
 
 ## Layout Considerations
 
@@ -17,6 +15,7 @@ According to the events office:
     * Talk to [the electrician](https://directory.vancouver.wsu.edu/people/dennis-giles) to ensure load is reasonably balanced
 * Accessibility (paths, accessible tables)
 * Entrance/exit points
+    * Need to keep 6' away from a door per Fire Marshall
 
 ### Food
 
